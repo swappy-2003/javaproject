@@ -67,7 +67,12 @@ java SudokuGame
 - The game will highlight any errors in the input.
 - Solve the puzzle by filling all the cells with the correct numbers.
 
-<vid
+## Video Demo
+
+Watch the demo video to see the Sudoku game in action:
+
+[Sudoku Game Demo](media/demo.mp4)
+
 
 ## Contributing
 
