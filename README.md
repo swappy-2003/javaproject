@@ -56,6 +56,10 @@ java SudokuGame
    - Generates new Sudoku puzzles by creating a fully solved board and then removing certain numbers to create a playable puzzle.
 
 6. **GUI**: 
+
+https://github.com/swappy-2003/javaproject/assets/122719184/928ad590-8ca8-45e7-a9d4-f68bc513edbc
+
+
    - Handles the graphical user interface, drawing the board and managing user interactions like input and validation.
 
 7. **GameController**: 
