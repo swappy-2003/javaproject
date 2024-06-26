@@ -71,7 +71,7 @@ java SudokuGame
 
 Watch the demo video to see the Sudoku game in action:
 
-[Sudoku Game Demo](media/demo.mp4)
+[Sudoku Game Demo](resources/vid)
 
 
 ## Contributing
